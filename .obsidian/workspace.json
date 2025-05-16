@@ -22,24 +22,38 @@
             }
           },
           {
-            "id": "421e5aad164ced98",
+            "id": "dae2ca8b3e41933b",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Resolver exercicios/Fluxos/Fluxo de resolução.canvas",
                 "viewState": {
-                  "x": 1663.532692909921,
-                  "y": 424.1190502555307,
-                  "zoom": -0.46432045774759945
+                  "x": -1165,
+                  "y": 682.5,
+                  "zoom": -2.366810353327072
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Fluxo de resolução"
             }
+          },
+          {
+            "id": "895ff9590c853c2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resolver exercicios/Queries.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Queries"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 300.5
   },
   "right": {
     "id": "8007e1d201961c3d",
@@ -186,17 +200,19 @@
       "command-palette:Abrir paleta de comando": false
     }
   },
-  "active": "421e5aad164ced98",
+  "active": "895ff9590c853c2a",
   "lastOpenFiles": [
     "Resolver exercicios/Fluxos/Fluxo.md",
-    "Conexão db.md",
     "Resolver exercicios/Fluxos/Fluxo de resolução.canvas",
+    "Métodos/Connection.getMetaData().md",
+    "Métodos/ResultSet.getMetaData().md",
+    "Métodos/ResultSetMetaData vs. DatabaseMetaData.md",
+    "Conexão db.md",
     "Resolver exercicios/Core.md",
     "Resolver exercicios/DDL, DML, DCL.md",
     "Bancos de dados/Comparação completa.md",
     "Exercicios/Testes.md",
     "Bancos de dados/H2 vs. PostgreSQL vs. MySQL.md",
-    "Métodos/getMetaData.md",
     "Resolver exercicios/Queries.md",
     "Bancos de dados/MySQL vs. H2.md",
     "Reuniões/Reunião.md",

@@ -1,4 +1,6 @@
-Aqui está uma tabela com as informações fornecidas sobre o método `getMetaData()` do `ResultSet`, mostrando as principais propriedades que se pode obter sobre as colunas de uma tabela:
+`getMetaData()` do `ResultSet`
+
+Principais propriedades que se pode obter sobre as colunas de uma tabela:
 
 | **Informação**                       | **Método**                              | **Descrição**                                                                                                                                      |
 | ------------------------------------ | --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
